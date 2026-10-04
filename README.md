@@ -3,9 +3,9 @@
 Repositori ini adalah pelengkap laporan Tugas Individu "Misi Perubahan Paradigma"
 (D4 Sains Data Terapan, PENS).
 
-Nama  : Davin Zoe Akhmad
-NRP   : 3326600003
-Prodi : Sains Data Terapan A (2026)
+Nama  : Davin Zoe Akhmad  
+NRP   : 3326600003  
+Prodi : Sains Data Terapan A (2026)  
 
 ## Isi
 - `notebooks/` : notebook latihan eksperimen Hari 1-4 dan Hari 6 (dijalankan di
