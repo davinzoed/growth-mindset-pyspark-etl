@@ -7,7 +7,7 @@ Alur:
     load     -> simpan hasil ke Parquet
     validate -> baca ulang hasil dan cek jumlah baris, keunikan kode, dan kategori
 
-Catatan: path Volume di bawah perlu disesuaikan dengan workspace masing-masing.
+Catatan: path Volume di bawah perlu disesuaikan dengan workspace masing-masing (saya menggunakan Databricks maka storagenya menggunakan Unity Catalog milik databricks (cloud)).
 """
 
 from pyspark.sql import SparkSession
