@@ -1,5 +1,5 @@
 """
-ETL sederhana: Jumlah Wisatawan per Tempat Wisata di Kabupaten Mojokerto (2025)
+ETL sederhana: Jumlah Wisatawan per Tempat Wisata di Kabupaten Mojokerto pada Tahun 2025
 
 Alur:
     extract  -> baca CSV (semua kolom sebagai teks), cast kolom total dan tahun ke int
