@@ -1,7 +1,7 @@
 # 7 Hari Mengubah Cara Belajar: ETL PySpark Sederhana (Data Wisata Kab. Mojokerto)
 
 Repositori ini adalah pelengkap laporan Tugas Individu "Misi Perubahan Paradigma"
-(D4 Sains Data Terapan, PENS).
+(D4 Sains Data Terapan, PENS)
 
 Nama  : Davin Zoe Akhmad  
 NRP   : 3326600003  
